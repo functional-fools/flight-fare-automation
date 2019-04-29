@@ -1,6 +1,5 @@
 
 const puppeteer = require('puppeteer');
-const screenshot = 'twitter.png';
 
 (async () => {
     const browser = await puppeteer.launch({ headless: false })
