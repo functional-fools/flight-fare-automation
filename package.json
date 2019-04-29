@@ -1,0 +1,16 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "Flight fare checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "phantomjs": "^2.1.7",
+    "puppeteer": "^1.15.0"
+  }
+}
