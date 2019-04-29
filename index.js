@@ -1,10 +1,3 @@
-/**
- * @name Twitter
- *
- * @desc Logs into Twitter. Provide your username and password as environment variables when running the script, i.e:
- * `TWITTER_USER=myuser TWITTER_PWD=mypassword node twitter.js`
- *
- */
 
 const puppeteer = require('puppeteer');
 const screenshot = 'twitter.png';
